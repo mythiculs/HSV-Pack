@@ -13,5 +13,5 @@ The installation is very simple:
 4. Read the SimpleOverview.txt file to see what HSV suits your needs.
 5. Enjoy!
 
-## This pack is recommended to be used on 1.39.1, use this HitScoreVisualiser for most of them to work.
+### This pack is recommended to be used on 1.39.1, use this HitScoreVisualiser for most of them to work.
 https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
