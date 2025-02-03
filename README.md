@@ -1,5 +1,3 @@
-## This pack is recommended to be used on 1.39.1
-
 ## HSV Pack
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
@@ -17,3 +15,4 @@ The installation is very simple:
 4. Read the SimpleOverview.txt file to see what HSV suits your needs.
 5. Enjoy!
 
+## This pack is recommended to be used on 1.39.1
