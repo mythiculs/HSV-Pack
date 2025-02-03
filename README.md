@@ -1,3 +1,6 @@
+## Use this version of HitScoreVisualiser for most of these to work properly
+https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2****
+
 ## HSV Pack
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
