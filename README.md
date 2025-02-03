@@ -1,8 +1,9 @@
 ## HSV Pack
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
+There is over 150 of them, so choose whatever you need.
 
-# Installation
+## Installation
 
 The installation is very simple:
 
