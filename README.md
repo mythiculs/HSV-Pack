@@ -1,5 +1,5 @@
 ## Use this version of HitScoreVisualiser for most of these to work properly
-https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2****
+https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
 
 ## HSV Pack
 
