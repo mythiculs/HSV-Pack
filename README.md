@@ -14,6 +14,6 @@ The installation is very simple:
 5. Enjoy!
 
 ### This pack is recommended to be used on version 1.39.1, 
-## Use this HitScoreVisualiser for most of them to work.
+### Use this HitScoreVisualiser for most of them to work.
 
 https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
