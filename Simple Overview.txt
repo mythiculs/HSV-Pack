@@ -1,0 +1,199 @@
+Keywords:
+💀 = Broken, deprecated, not selectable.
+❌ = Bad HSV, not recommended, bad optimisation.
+🟨 = Decent HSV, recommended for casual play, decent optimisation.
+✅ = Good HSV, highly recommended for ranked, great optimisation.
+🕵🏼‍♂️ = Has underswing detection, which helps with swing size optimisation and reduces score loss.
+📐 = Has Time dependence / TD info.
+
+Disclaimer: Don't overload your vision with info you don't need. You might not need an HSV that has 20 checks at all times, switch depending on the things you are working on.
+The following HSV's were tested on 1.39.1 and the latest plugin, using them on an older or newer version might not always guarantee a working good result. Use wisely.
+
+Simple Overview:
+These are the hitscores in alphabetical order, it is ranked more simply compared to the advanced due to the keywords above.
+
+Agate:❌
+Aquaflee:✅🕵🏼‍♂️
+AquaRockerHSV:✅🕵🏼‍♂️
+aquas_edit_of_rockers:✅🕵🏼‍♂️
+Astrella:🟨
+AstrellaHSV:💀
+AstrellaV2HSV:💀
+AstrellaV3HSV:💀
+Astreller HSV:🟨
+AyaHSV:❌
+BandootHSV:✅🕵🏼‍♂️
+baz:🟨🕵🏼
+Beatleader:🟨
+Bezzuh:🟨
+big_acc_numbers_hsv:❌
+Big_sharkHSV:🟨
+BigALHSV:🟨
+Bitz_Chains_Mod_(MinnieFox)_TD-V3.6:✅🕵🏼‍♂️📐
+Bitz_Chains_Mod_MinnieFox_TD-V3.5:✅🕵🏼‍♂️📐
+Bitz_Chains_Mod_UltraV_TD:✅🕵🏼‍♂️📐
+Bitz_Chains_Mod_UltraV_TD-V3.1:✅🕵🏼‍♂️📐
+Bitz_Chains_Mod_UltraV_TD-V3.4:✅🕵🏼‍♂️📐
+Bitz_modified_1:✅🕵🏼‍♂️
+bizzy and electro hsv kinda idk:✅🕵🏼‍♂️
+Bizzy:🟨
+BizzyHSV 2:💀
+BizzyHSV:🟨
+Cerret:❌
+CerretHSV:💀
+Chromia!:✅🕵🏼‍♂️
+Chromia:✅🕵🏼‍♂️
+Cooling:💀
+CoolingEmoji:🟨
+CoolpickHSV:❌
+CoolpickV2HSV:❌
+crafang_config:🟨
+CrafangHSV:❌
+Creeper:✅🕵🏼‍♂
+CreeperHSV_v2:✅🕵🏼‍♂
+CreeperHSV_v2.0:✅🕵🏼‍♂
+Crusader:✅
+Dont_Worry_About_It:💀
+Drummer:🟨🕵🏼‍♂
+Duh Hello:🟨🕵🏼‍♂
+Duh Smol:✅🕵🏼‍♂
+Duh Two Digit:✅🕵🏼‍♂
+DuhHello:🟨🕵🏼‍♂
+DuhHelloHSV:🟨🕵🏼‍♂
+DuhHelloSmall:✅🕵🏼‍♂
+DuhHelloV3HSV:❌
+DuhHelloV4HSV:🟨
+EJ:🟨🕵🏼‍♂
+ElectroHSV:✅🕵🏼‍♂
+ElectroInvisible109-96:❌
+ElectroInvisible110-97:❌
+ElectroInvisible111-97:❌
+ElectroInvisible112-98:❌
+ElectroInvisible113-98:❌
+Electrostats:✅🕵🏼‍♂
+ElectroStatsCHEATS:❌
+ElectrostatsHSV:✅🕵🏼‍♂
+ElectrostatsHSVSTRICT111:✅🕵🏼‍♂
+ElectrostatsHSVSTRICT112:✅🕵🏼‍♂
+ElectrostatsHSVSTRICT112No20:✅🕵🏼‍♂
+ElectrostatsTD:🟨📐
+ElectrostatsTDPRO:✅🕵🏼‍♂📐
+ElectroV2HSV:🟨🕵🏼‍♂
+EradawnHSV:🟨🕵🏼‍♂
+FARTBEEFREALONE:🟨🕵🏼‍♂
+FaZPiMarsh:🟨
+FlaimeHSV:❌
+Fox_Config:❌🕵🏼‍♂
+Fox_Config_V2:❌🕵🏼‍♂
+funny_lohl_ANGRY_ORANGE_Purple_111:❌
+Garsh:❌
+Gio:🟨🕵🏼‍♂
+Hammy:❌
+Harbgy:❌
+HarbgyHSV:❌
+HarbgyOld:❌
+Hikari:✅🕵🏼‍♂
+HitScoreVisualiser_matty:💀
+HitScoreVisualiserConfig (default):❌
+HitScoreVisualiserConfig:❌
+HitScoreVisualiserConfig_Astrella:💀
+HitScoreVisualiserConfig_funny_lohl:❌
+HitScoreVisualiserConfig_me:🟨
+HitScoreVisualiserConfigCC:💀
+HitScoreVisualiserElectrostats:🟨🕵🏼‍
+HSV-Arimodu:🟨
+Insta_115:💀
+IxsenHsvConfig:🟨🕵🏼‍♂📐
+Jestro:❌
+Joshabi:❌
+KingRazerHSV:💀
+Kira:❌🕵🏼‍🕵🏼‍
+kirahsv:❌🕵🏼‍
+Latest:❌🕵🏼‍
+Ludachris_AccOnly:🟨🕵🏼‍
+Ludachris_TD:❌🕵🏼‍♂📐
+Marsh:🟨
+MatthewCopHSV:🟨
+Matty:✅🕵🏼
+MattyConcoction:✅🕵🏼
+miitchel:❌
+MiitchelHSV:❌
+MinnieFox GOLF:❌
+monke:🟨🕵🏼
+mythic multicolored test:🟨
+mythic multicolored:❌
+mythic panda:✅🕵🏼
+Mythic Pet (0_0001percent chance):❌
+mythic v2:✅🕵🏼
+mythic:🟨
+mythic_kira:❌
+Mythic_Manski:🟨
+Mythical Alyng Pet (0_0001percent chance):🟨
+Oermer:🟨🕵🏼
+OlbmaBigAndSmall:🟨
+OlbmaFirstTest:🟨
+OlbmaGarsh:❌
+OlbmaMedium:🟨
+OlbmaMultiColor:🟨
+OlbmaMulticoloured(SckufflesVer):✅
+OlbmaOmbre(GeezerVer):🟨🕵🏼
+OlbmaOmbre(PolarVer):✅🕵🏼
+OlbmaOmbre:✅🕵🏼
+OlbmaOmbreLarge:🟨
+OlbmaOmbreSmol:✅
+OlbmaRecording:❌🕵🏼
+OlbmaSilentBytesy:✅🕵🏼
+OlbmaSmall:🟨
+old_pink_-no_115_Copy:❌
+Ptotpa:🟨
+PtotpaHSV:🟨
+PurpleBlue 4:❌
+Rac:❌
+RacHSV:🟨🕵🏼
+Rocker:✅🕵🏼
+Rocker_Mythic:✅🕵🏼
+Rocker_No_TD:✅🕵🏼
+Rocker_No_TDReddek_edit:✅🕵🏼
+Rocker_TD:✅🕵🏼‍♂📐
+Rocker_TD_Direction:✅🕵🏼‍♂📐
+RockerHSV:✅🕵🏼
+RockerV2HSV:✅🕵🏼
+Rosie:✅🕵🏼
+Sands:🟨
+SckufflesPtotpa:🟨
+Scoop:✅🕵🏼
+Sebic:🟨
+SeblepticHSV:❌
+smallclean:💀
+Sopera_hsv_hahabal:🟨
+Sphynx:❌
+Sync:🟨🕵🏼
+Sync_V2:❌
+SyncHSV:✅🕵🏼
+SyncV2HSV:❌
+TaichiHSV:💀
+the_chess_method_-_Smileys:💀
+Thinking:🟨🕵🏼
+thinking_hsv:🟨🕵🏼
+Tieeli:✅🕵🏼‍♂📐
+TieeliHSV:✅🕵🏼‍♂📐
+Tornado:✅🕵🏼
+TornadoHSV:✅🕵🏼
+TornadoNew:✅🕵🏼
+TornadoOld:✅🕵🏼
+TornadoV2HSV:✅🕵🏼
+Tranch:🟨🕵🏼
+TranchNew:🟨🕵🏼
+TranchOld:🟨🕵🏼
+Triangle115:✅🕵🏼
+TruHSV:💀
+Tseska:🟨🕵🏼
+TseskaHSV:🟨🕵🏼
+Udon:❌
+udonHSV:❌
+VapScoreVisualiser:🟨
+vermillion:🟨
+WhiisperAcc:🟨🕵🏼
+XORoseGoldNewSmaller:❌
+Yurklee:🟨🕵🏼
+Zilian:❌
