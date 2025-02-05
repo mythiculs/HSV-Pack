@@ -13,5 +13,10 @@ The installation is very simple:
 4. Read the SimpleOverview.txt file to see what HSV suits your needs.
 5. Enjoy!
 
+### Do the following to make the experience better.
+
+- Enable "Disable Score Italics"
+- Enable "Override No Texts and Huds"
+
 ### Use this HitScoreVisualiser version for all of them to work.
 Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
