@@ -1,7 +1,7 @@
 ## HSV Pack
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
-There is over 150 of them, so choose whatever you need.
+There is over 150 of them, so choose whatever you need. This pack is recommended to be used on version 1.39.1.
 
 ## Installation
 
@@ -13,5 +13,5 @@ The installation is very simple:
 4. Read the SimpleOverview.txt file to see what HSV suits your needs.
 5. Enjoy!
 
-### This pack is recommended to be used on version 1.39.1, Use this HitScoreVisualiser version for all of them to work.
+### Use this HitScoreVisualiser version for all of them to work.
 Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
