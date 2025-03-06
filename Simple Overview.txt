@@ -13,13 +13,11 @@ Simple Overview:
 These are the hitscores in alphabetical order, it is ranked more simply compared to the advanced due to the keywords above.
 
 Agate:❌
+Alyng:🟨
 Aquaflee:✅🕵🏼‍♂️
 AquaRockerHSV:✅🕵🏼‍♂️
 aquas_edit_of_rockers:✅🕵🏼‍♂️
 Astrella:🟨
-AstrellaHSV:💀
-AstrellaV2HSV:💀
-AstrellaV3HSV:💀
 Astreller HSV:🟨
 AyaHSV:❌
 BandootHSV:✅🕵🏼‍♂️
@@ -37,13 +35,10 @@ Bitz_Chains_Mod_UltraV_TD-V3.4:✅🕵🏼‍♂️📐
 Bitz_modified_1:✅🕵🏼‍♂️
 bizzy and electro hsv kinda idk:✅🕵🏼‍♂️
 Bizzy:🟨
-BizzyHSV 2:💀
 BizzyHSV:🟨
 Cerret:❌
-CerretHSV:💀
 Chromia!:✅🕵🏼‍♂️
 Chromia:✅🕵🏼‍♂️
-Cooling:💀
 CoolingEmoji:🟨
 CoolpickHSV:❌
 CoolpickV2HSV:❌
@@ -53,7 +48,6 @@ Creeper:✅🕵🏼‍♂
 CreeperHSV_v2:✅🕵🏼‍♂
 CreeperHSV_v2.0:✅🕵🏼‍♂
 Crusader:✅
-Dont_Worry_About_It:💀
 Drummer:🟨🕵🏼‍♂
 Duh Hello:🟨🕵🏼‍♂
 Duh Smol:✅🕵🏼‍♂
@@ -63,6 +57,7 @@ DuhHelloHSV:🟨🕵🏼‍♂
 DuhHelloSmall:✅🕵🏼‍♂
 DuhHelloV3HSV:❌
 DuhHelloV4HSV:🟨
+Dumplin:🟨
 EJ:🟨🕵🏼‍♂
 ElectroHSV:✅🕵🏼‍♂
 ElectroInvisible109-96:❌
@@ -93,20 +88,15 @@ Harbgy:❌
 HarbgyHSV:❌
 HarbgyOld:❌
 Hikari:✅🕵🏼‍♂
-HitScoreVisualiser_matty:💀
 HitScoreVisualiserConfig (default):❌
 HitScoreVisualiserConfig:❌
-HitScoreVisualiserConfig_Astrella:💀
 HitScoreVisualiserConfig_funny_lohl:❌
 HitScoreVisualiserConfig_me:🟨
-HitScoreVisualiserConfigCC:💀
 HitScoreVisualiserElectrostats:🟨🕵🏼‍
 HSV-Arimodu:🟨
-Insta_115:💀
 IxsenHsvConfig:🟨🕵🏼‍♂📐
 Jestro:❌
 Joshabi:❌
-KingRazerHSV:💀
 Kira:❌🕵🏼‍🕵🏼‍
 kirahsv:❌🕵🏼‍
 Latest:❌🕵🏼‍
@@ -120,15 +110,13 @@ miitchel:❌
 MiitchelHSV:❌
 MinnieFox GOLF:❌
 monke:🟨🕵🏼
-mythic multicolored test:🟨
-mythic multicolored:❌
-mythic panda:✅🕵🏼
-Mythic Pet (0_0001percent chance):❌
-mythic v2:✅🕵🏼
-mythic:🟨
-mythic_kira:❌
-Mythic_Manski:🟨
-Mythical Alyng Pet (0_0001percent chance):🟨
+Mythic MultiColor:✅🕵🏼
+Mythic MultiColor 2:❌
+Mythic Panda:✅🕵🏼
+Mythic Alyng:🟨
+Mythic:✅🕵🏼
+Mythic 2:🟨
+Mythic Kira:❌
 Oermer:🟨🕵🏼
 OlbmaBigAndSmall:🟨
 OlbmaFirstTest:🟨
@@ -162,17 +150,13 @@ Rosie:✅🕵🏼
 Sands:🟨
 SckufflesPtotpa:🟨
 Scoop:✅🕵🏼
-Sebic:🟨
 SeblepticHSV:❌
-smallclean:💀
 Sopera_hsv_hahabal:🟨
 Sphynx:❌
 Sync:🟨🕵🏼
 Sync_V2:❌
 SyncHSV:✅🕵🏼
 SyncV2HSV:❌
-TaichiHSV:💀
-the_chess_method_-_Smileys:💀
 Thinking:🟨🕵🏼
 thinking_hsv:🟨🕵🏼
 Tieeli:✅🕵🏼‍♂📐
@@ -186,7 +170,7 @@ Tranch:🟨🕵🏼
 TranchNew:🟨🕵🏼
 TranchOld:🟨🕵🏼
 Triangle115:✅🕵🏼
-TruHSV:💀
+TriangleNew115:🟨
 Tseska:🟨🕵🏼
 TseskaHSV:🟨🕵🏼
 Udon:❌
