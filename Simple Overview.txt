@@ -14,12 +14,16 @@ These are the hitscores in alphabetical order, it is ranked more simply compared
 
 Agate:❌
 Alyng:🟨
+Alyng 2:🟨
+AlyngAcc:🟨
 Aquaflee:✅🕵🏼‍♂️
 AquaRockerHSV:✅🕵🏼‍♂️
 aquas_edit_of_rockers:✅🕵🏼‍♂️
+AsmanaHSV:❌
 Astrella:🟨
 Astreller HSV:🟨
 AyaHSV:❌
+azuAcc:🟨
 BandootHSV:✅🕵🏼‍♂️
 baz:🟨🕵🏼
 Beatleader:🟨
