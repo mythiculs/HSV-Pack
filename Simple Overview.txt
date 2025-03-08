@@ -106,6 +106,8 @@ kirahsv:❌🕵🏼‍
 Latest:❌🕵🏼‍
 Ludachris_AccOnly:🟨🕵🏼‍
 Ludachris_TD:❌🕵🏼‍♂📐
+Manski Direction:✅
+Manski:✅
 Marsh:🟨
 MatthewCopHSV:🟨
 Matty:✅🕵🏼
@@ -118,6 +120,7 @@ Mythic MultiColor:✅🕵🏼
 Mythic MultiColor 2:❌
 Mythic Panda:✅🕵🏼
 Mythic Alyng:🟨
+Mythic Direction:✅
 Mythic:✅🕵🏼
 Mythic 2:🟨
 Mythic Kira:❌
