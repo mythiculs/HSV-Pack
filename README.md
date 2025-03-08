@@ -2,7 +2,6 @@
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
 There is over 150 of them, so choose whatever you need. This pack is required to be used on version 1.39.1.
-If you want me to add any you think is good, contact my Discord mythiculs and I'll give it a look.
 
 ## Installation
 
@@ -21,3 +20,6 @@ The installation is very simple:
 
 ### Use this HitScoreVisualiser version for all of them to work.
 Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
+
+### Contact Me For Suggestions
+Discord: mythiculs
