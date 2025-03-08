@@ -2,6 +2,7 @@
 
 This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
 There is over 150 of them, so choose whatever you need. This pack is required to be used on version 1.39.1.
+If you want me to add any you think is good, contact my Discord mythiculs and I'll give it a look.
 
 ## Installation
 
