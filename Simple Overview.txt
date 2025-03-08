@@ -1,5 +1,4 @@
 Keywords:
-💀 = Broken, deprecated, not selectable.
 ❌ = Bad HSV, not recommended, bad optimisation.
 🟨 = Decent HSV, recommended for casual play, decent optimisation.
 ✅ = Good HSV, highly recommended for ranked, great optimisation.
