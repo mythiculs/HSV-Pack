@@ -19,7 +19,7 @@ The installation is very simple:
 - Enable "Override No Texts and Huds"
 
 ### Use this HitScoreVisualiser version for all of them to work.
-Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.2
+Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3)
 
 ### Contact Me For Suggestions
 Discord: mythiculs
