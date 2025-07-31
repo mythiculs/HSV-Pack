@@ -17,7 +17,7 @@ The installation is very simple:
 - Enable "Override No Texts and Huds"
 
 ### Use this HitScoreVisualiser version for all of them to work.
-Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3
+Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
 
 ### Contact Me For Suggestions
 Discord: mythiculs
