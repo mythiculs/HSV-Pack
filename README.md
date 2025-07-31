@@ -1,6 +1,6 @@
  ## HSV Pack
 
-This HSV Pack is there for anyone who wants a HSV and does not know what to choose.
+This HSV Pack is there for anyone who wants a HSV and does not know what to choose. I advise using 1.40.6 or over for the best experience.
 
 ## Installation
 
