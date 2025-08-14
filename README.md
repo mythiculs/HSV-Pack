@@ -21,3 +21,6 @@ Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
 
 ### Contact Me For Suggestions
 Discord: mythiculs
+
+### Credits to Axes for some sick creations
+Discord: establishedaxes
