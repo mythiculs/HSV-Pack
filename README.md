@@ -1,6 +1,7 @@
  ## HSV Pack
 
-This HSV Pack is there for anyone who wants a HSV and does not know what to choose. I advise using 1.40.6 or over for the best experience.
+This HSV Pack is there for anyone who wants a HSV and does not know what to choose. I advise using 1.40.6 or over for the best experience. Credits to Axes for the sick creations
+Discord: establishedaxes
 
 ## Installation
 
@@ -21,6 +22,3 @@ Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
 
 ### Contact Me For Suggestions
 Discord: mythiculs
-
-### Credits to Axes for some sick creations
-Discord: establishedaxes
