@@ -1,7 +1,6 @@
  ## HSV Pack
 
-This HSV Pack is there for anyone who wants a HSV and does not know what to choose. I advise using 1.40.6 or over for the best experience. Credits to Axes for the sick creations
-Discord: establishedaxes
+This HSV Pack is there for anyone who wants a HSV and does not know what to choose. I advise using 1.40.6 or over for the best experience. Axes has sick creations
 
 ## Installation
 
@@ -20,5 +19,5 @@ The installation is very simple:
 ### Use this HitScoreVisualiser version for all of them to work.
 Link: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
 
-### Contact Me For Suggestions
-Discord: mythiculs
+### Contact us For Suggestions
+Discord: mythiculs, establishedaxes
