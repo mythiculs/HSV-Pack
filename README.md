@@ -1,8 +1,10 @@
  # HSV Pack
 
-A HSV Pack for anyone who wants a HSV and doesn't know what to choose. Axes has sick HSV creations
+A HSV Pack for anyone who wants a HSV and doesn't know what to choose. Use the following links below for these to work or else it will not work.
 
 ## Installation
+- [Version 1.40.8](https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1)  
+- [Version 1.39.1](https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3)
 
 The installation is very simple:
 
@@ -15,11 +17,6 @@ The installation is very simple:
 
 - Enable "Disable Score Italics"
 - Enable "Override No Texts and Huds"
-
-> [!IMPORTANT]
-Use these versions for each
-1.40.8: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
-1.39.1: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3
 
 ## Contact us For Suggestions
 Discord: mythiculs, establishedaxes
