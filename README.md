@@ -17,8 +17,9 @@ The installation is very simple:
 - Enable "Override No Texts and Huds"
 
 > [!IMPORTANT]
-> 1.40.8: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
-> 1.39.1: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3
+Use these versions for each
+1.40.8: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.7.1
+1.39.1: https://github.com/ErisApps/HitScoreVisualizer/releases/tag/3.5.3
 
 ## Contact us For Suggestions
 Discord: mythiculs, establishedaxes
