@@ -14,7 +14,7 @@ The installation is very simple:
 4. Enjoy!
 
 > [!IMPORTANT]
-> Apply these settings for the best experience.
+> Apply these settings for the best experience
 
 - Enable "Disable Score Italics"
 - Enable "Override No Texts and Huds"
