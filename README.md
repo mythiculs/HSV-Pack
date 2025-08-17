@@ -13,7 +13,8 @@ The installation is very simple:
 3. Navigate to your Beat Saber game folder and put it in UserData\HitScoreVisualizer.
 4. Enjoy!
 
-## Do the following to make the experience better
+> [!IMPORTANT]
+> Apply these settings for the best experience.
 
 - Enable "Disable Score Italics"
 - Enable "Override No Texts and Huds"
